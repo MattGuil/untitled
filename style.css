@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
+}
+
+.gradient-green {
+    background: linear-gradient(135deg, greenyellow, lightgreen);
+}
+
+.gradient-white {
+    background: linear-gradient(135deg, white, aliceblue);
+}
